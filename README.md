@@ -1,2 +1,2 @@
 # mac-screen-on-iphone
-View Mac screen live on iPhone
+View Mac screen live on iPhone!
